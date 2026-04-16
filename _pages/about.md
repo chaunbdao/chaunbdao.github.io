@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Physics Ph.D. Candidate at UCLA supervised by <a href='https://sites.google.com/site/tserkovnyak/publications'>Yaroslav Tserkovnyak</a> 
+subtitle: Physics Ph.D. Candidate at UCLA supervised by <a href='https://sites.google.com/site/tserkovnyak/people?authuser=0'>Yaroslav Tserkovnyak</a> 
 
 profile:
   align: right
