@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Candidate at UCLA supervised by <a href='https://sites.google.com/site/tserkovnyak/publications'>Yaroslav Tserkovnyak</a> 
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Knudsen 6-117</p>
-    <p>Department of Physics and Astronomy, UCLA</p>
+    <p>Department of Physics & Astronomy, UCLA</p>
     <p>Los Angeles, California 90024</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
