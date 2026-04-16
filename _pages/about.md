@@ -12,7 +12,7 @@ profile:
     <p>Knudsen 6-117</p>
     <p>Dept. of Physics & Astronomy, UCLA</p>
     <p>Los Angeles, CA 90024</p>
-    <p>email: chaunbdao at ucla dot edu</p>
+    <p>email: chaunbdao@ucla.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
