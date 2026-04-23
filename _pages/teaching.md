@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Physics notes, course materials, and pedagogical resources for being a better scientist.
 nav: true
 nav_order: 6
 calendar: false #true
