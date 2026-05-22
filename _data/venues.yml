@@ -3,12 +3,15 @@
   color: "#00369f"
 
 "PhysRevB":
+  url: https://journals.aps.org/prb/
   color: "#0B6623"
 
 "PhysRevLett":
+  url: https://journals.aps.org/prl/
   color: "#0B6623"
 
 "PhysRevBLett":
+  url: https://journals.aps.org/prb/
   color: "#0B6623"
 
 "Preprint":
