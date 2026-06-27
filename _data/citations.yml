@@ -1,12 +1,20 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-06-24'
 papers:
-  guRHCgcAAAAJ:d1gkVwhDpl0C:
+  guRHCgcAAAAJ:2osOgNQ5qMEC:
     citations: 0
-    title: Topological hydrodynamics in spin-triplet superconductors
-    year: '2025'
+    title: Dynamics of Topological Textures
+    year: '2026'
+  guRHCgcAAAAJ:9yKSN-GCB0IC:
+    citations: 1
+    title: Topological hydrodynamics in ferromagnetic superconductors
+    year: '2026'
+  guRHCgcAAAAJ:qjMakFHDy7sC:
+    citations: 0
+    title: Nonabelian Topological Hydrodynamics
+    year: '2026'
   guRHCgcAAAAJ:u-x6o8ySG0sC:
-    citations: 3
+    citations: 5
     title: Topological transport of vorticity on curved magnetic membranes
     year: '2025'
   guRHCgcAAAAJ:u5HHmVD_uO8C:
