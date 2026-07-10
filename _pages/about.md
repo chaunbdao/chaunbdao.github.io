@@ -6,7 +6,7 @@ subtitle: Theoretical Condensed Matter Physicist
 
 profile:
   align: right
-  image: chaunbdao.jpg
+  image: chauphoto.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Knudsen 6-117</p>
