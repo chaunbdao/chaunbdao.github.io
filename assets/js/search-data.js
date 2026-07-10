@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-research",
+          title: "research",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Physics notes, course materials, and pedagogical resources for being a better scientist.",
