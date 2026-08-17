@@ -9,10 +9,11 @@ profile:
   image: chauphoto.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Knudsen 6-117</p>
-    <p>Dept. of Physics & Astronomy, UCLA</p>
-    <p>Los Angeles, CA 90024</p>
-    <p>email: chaunbdao@ucla.edu</p>
+    <p>Office 4.17</p>
+    <p>Department of Physics, University of Basel</p>
+    <p>Klingelbergstrasse 82</p>
+    <p>CH-4056 Basel, Switzerland</p>
+    <p>email: chau.dao@unibas.ch</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -34,7 +35,7 @@ latest_posts:
   #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 ---
 
-I'm an incoming Postdoctoral Researcher in the [Quantum Theory of Condensed Matter and Quantum Computing Group](https://www.quantumtheory.unibas.ch/) led by [Prof. Daniel Loss](https://www.quantumtheory.unibas.ch/people/loss/) and [Prof. Jelena Klinovaja](https://www.quantumtheory.unibas.ch/people/klinovaja/) at University of Basel. Broadly speaking, my research interests lie at the intersection of topological phenonomena, nonequilibrium dynamics, and quantum information. You can find my works on my [arxiv](https://arxiv.org/search/?query=Dao%2C+Chau&searchtype=author&abstracts=show&order=-announced_date_first&size=50) or [Google Scholar](https://scholar.google.com/citations?user=guRHCgcAAAAJ&hl=en). I am also passionate about teaching and mentoring, having taught both graduate and undergraduate level courses. Here, you can find my physics notes as well as pedagogical resources that teach how to clearly convey information in an academic setting.
+I'm a Postdoctoral Researcher in the [Quantum Theory of Condensed Matter and Quantum Computing Group](https://www.quantumtheory.unibas.ch/) led by [Prof. Daniel Loss](https://www.quantumtheory.unibas.ch/people/loss/) and [Prof. Jelena Klinovaja](https://www.quantumtheory.unibas.ch/people/klinovaja/) at the University of Basel. Broadly speaking, my research interests lie at the intersection of topological phenonomena, nonequilibrium dynamics, and quantum information. You can find my works on my [arxiv](https://arxiv.org/search/?query=Dao%2C+Chau&searchtype=author&abstracts=show&order=-announced_date_first&size=50) or [Google Scholar](https://scholar.google.com/citations?user=guRHCgcAAAAJ&hl=en). I am also passionate about teaching and mentoring, having taught both graduate and undergraduate level courses. Here, you can find my physics notes as well as pedagogical resources that teach how to clearly convey information in an academic setting.
 
 I attained a Ph.D. in Physics from University of California, Los Angeles in June 2026. There, I studied theoretical and computational condensed matter physics under the supervision of [Prof. Yaroslav Tserkovnyak](https://sites.google.com/site/tserkovnyak/people?authuser=0) and was suported by the [Mani L. Bhaumik Institute for Theoretical Physics](https://bhaumik-institute.physics.ucla.edu/).
 My Ph.D. research focused on theoretical modeling and numerical simulation of order parameter dynamics, in particular, probing nonequilibrium transport properties in magnetic materials. I worked on investigating topological spin textures (e.g. skyrmions, vortices, spin winding) and their manipulation through electrical controls.
