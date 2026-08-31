@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-08-31'
 papers:
   guRHCgcAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -8,6 +8,10 @@ papers:
   guRHCgcAAAAJ:9yKSN-GCB0IC:
     citations: 1
     title: Topological hydrodynamics in ferromagnetic superconductors
+    year: '2026'
+  guRHCgcAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: 'Noise-Induced Localized Patterns in Excitable Media: Amplitude versus Persistence'
     year: '2026'
   guRHCgcAAAAJ:qjMakFHDy7sC:
     citations: 0
